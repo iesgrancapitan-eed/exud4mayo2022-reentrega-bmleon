@@ -57,6 +57,10 @@
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+<<<<<<< HEAD
 [Enlace de bitbucket](https://bmleon@bitbucket.org/bmleon/exud4mayo2022-reentrega-bmleon.git)
 
 
+=======
+[Enlace de bitbucket](https://bitbucket.org/bmleon/exud4mayo2022-reentrega-bmleon/src/main/)
+>>>>>>> 17b749240a841b6a34ff2a86bc698dfd76aff333
